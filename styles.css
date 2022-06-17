@@ -1,0 +1,27 @@
+/**************** HTML TAGs Selectors ******************/
+body {
+  margin: 0;
+  background-color: #f7efd5;
+  text-align: center;
+  font-family: 'Gentium Basic', serif;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Libre Baskerville', serif;
+}
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2.5rem;
+}
+h3,h4,h5 {
+  font-family: 'Gentium Basic', serif;
+}
+/*********************** class selectors *******************/
+.pro {
+  text-decoration: underline;
+}
+.top-container {
+  padding-top: 100px;
+}
+/********************* Element Selectors **********************/
